@@ -1,5 +1,5 @@
-@import url('normalize.css');
-@import url('skeleton.css');
+@import url('../../assets/css/normalize.css');
+@import url('../../assets/css/skeleton.css');
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,400');
 .alert p {
   margin-bottom: 0!important;
